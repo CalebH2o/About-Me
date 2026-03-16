@@ -1,0 +1,31 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #2b2b2b;
+    color: #f0f0f0;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #8fbc8f;
+}
+
+a {
+    color: #c47c7c;
+}
+
+nav {
+    background-color: #1a1a1a;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+img {
+    border-radius: 8px;
+    margin: 15px 0;
+}
+
+p {
+    line-height: 1.7;
+}
